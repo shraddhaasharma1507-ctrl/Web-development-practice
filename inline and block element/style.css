@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(215, 129, 129);
+}
+h2{
+    color: black;
+}
+a{
+ color: color-mix(in srgb, color percentage, color percentage);    
+}
